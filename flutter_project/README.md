@@ -1,4 +1,4 @@
-# flutter_final_project_level1
+# flutter-project
 
 A new Flutter project.
 
